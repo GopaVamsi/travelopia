@@ -1,21 +1,3 @@
-Default styling for large screens
-/* .dropdown {
-    display: none;
-  } */
-
-  /* Media query to show/hide elements based on screen size */
-  /* @media screen and (max-width: 768px) {
-    /* Hide elements for large screens */
-    /* .visible-large {
-      display: none;
-    } */
-
-    /* Show dropdown for smaller screens */
-    /* .dropdown {
-      display: inline-block;
-    } */
-    
-
   #visible-large{
     display: inline;
     color: white;
